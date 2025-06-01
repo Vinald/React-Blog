@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My first blog",
+            "content": "This is the content of my first blog post.\nIt contains some interesting information about various topics.",
+            "author": "John Doe",
+            "id": 1
+        },
+        {
+            "title": "My second blog",
+            "content": "This is the content of my second blog post.\nIt contains even more interesting information about different topics.",
+            "author": "Jane Smith",
+            "id": 2
+        },
+        {
+            "title": "My third blog",
+            "content": "This is the content of my third blog post.\nIt contains a lot of interesting information about various subjects.",
+            "author": "Alice Johnson",
+            "id": 3
+        }
+    ]
+}
