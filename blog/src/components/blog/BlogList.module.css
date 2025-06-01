@@ -1,0 +1,19 @@
+.blogList {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+    width: 1300px;
+}
+
+.blogPreview {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.blogPreview a {
+    color: white;
+}

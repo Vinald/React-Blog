@@ -1,0 +1,36 @@
+.create {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+label {
+    text-align: left;
+    display: block;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    padding: 12px 16px;
+    margin: 8px 0;
+    border: solid 1px #ddd;
+    box-sizing: border-box;
+    display: block;
+}
+
+button {
+    background-color: #4caf50;
+    margin-top: 20px;
+    color: white;
+    padding: 12px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
